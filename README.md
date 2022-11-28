@@ -5,20 +5,22 @@
 -----------------------------------------------------------------
 -> Spring plan - primeira entrega
 
-	-> cadastro e autenticação de usuarios 
+	-> End-points de cadastro e autenticação de usuarios 
 	-> validar email 
-	-> crud produto 
+	-> End-points CRUD produto 
 -----------------------------------------------------------------
 -> Spring plan - segunda entrega
-	
-	-> estrutura de criação de categoria e descrição dinamica
-	-> cupons
-	-> venda do produto/estoque
+		
+	-> criar aplicação angular
+	-> Consumir end-points de cadastro e busca de produtos
+	-> Ativar segurança
 
 ----------------------------------------------------------------
 -> Spring plan - terceira entrega
 	
-	-> Ativar segurança
-	-> criar aplicação angular
+	-> estrutura de criação de categoria e descrição dinamica
+	-> Consumir end-poins de autenticação e cadastro com jwt
+	-> Consumir end-points de deletar e editar
+	-> Busca de produtos
 
 -----------------------------------------------------------------
